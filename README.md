@@ -97,3 +97,11 @@ This lab includes:
 - Restart thr server
 
 - Domain Controller Setup is now completed 
+
+- Install the other workstations
+- Setup Users, Groups and Policies
+- Join user machines to the domain
+
+Active Directory (AD) lab environment is ready to use.
+
+
