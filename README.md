@@ -10,7 +10,7 @@ This lab includes:
 
 - **Domain Controller** (Windows Server 2022)
 - **Windows Workstation(s)** (Windows 10)
-- ** Attacker VM** (Kali Linux)
+- **Attacker VM** (Kali Linux)
 - **Virtualization Platform:** VMware Workstation
 - **Networking:** Internal NAT
 
