@@ -94,7 +94,7 @@ This lab includes:
   ![image](https://github.com/user-attachments/assets/8af4fd1d-06e6-4df3-b2e9-48d7dcebab1d)
 
 - Rest stays default
-- Restart thr server
+- Restart the server
 
 - Domain Controller Setup is now completed 
 
